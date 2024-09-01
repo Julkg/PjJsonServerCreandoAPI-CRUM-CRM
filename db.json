@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "id": "1fc1",
+      "nombre": "Julian",
+      "email": "parMercedesCm@gmail.com",
+      "telefono": "619654620",
+      "empresa": "si"
+    },
+    {
+      "nombre": "Angi",
+      "email": "angio@gmail.com",
+      "telefono": "232323",
+      "empresa": "Su empresa",
+      "id": "31ab"
+    }
+  ]
+}
